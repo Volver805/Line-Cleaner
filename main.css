@@ -1,0 +1,42 @@
+body {
+    font-family:'Roboto';
+
+}
+h1 {
+    font-weight: 300;
+    font-size:40px;
+    text-align: center;
+}
+textarea {
+    display:block;
+    height:200px;
+    font-size:16px;
+    resize: none;
+    width:70%;
+    margin:0 auto;
+    border:2px solid #0061e0;
+}
+button {
+    background-color:#0061e0;
+    border:0;
+    color:white;
+    font-family: 'Open Sans';
+    font-weight:bold;
+    width:140px;
+    height:40px;
+    display:block;
+    margin:0 auto;
+    margin-top:30px;
+}
+h3 {
+    text-align: center;
+}
+.code-output-wrapper {
+    background-color:#eeeeee;
+    min-height:400px;
+    border-radius:10px;
+    width:70%;
+    margin:0 auto;
+    font-weight:bold;
+    padding:20px
+}
